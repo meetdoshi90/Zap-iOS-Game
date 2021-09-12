@@ -31,7 +31,6 @@
 
 👤 **Darshan Satra**
 
-- GitHub: [@darshansatra1](https://github.com/darshansatra1)
 
 ## 🤝 Contributing
 
