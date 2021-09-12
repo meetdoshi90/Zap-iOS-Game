@@ -22,7 +22,7 @@
 
 [Live Demo Link](https://www.youtube.com/watch?v=EpG57LFGXBY)
 
-## Authirs
+## Authors
 
 👤 **Author1**
 
