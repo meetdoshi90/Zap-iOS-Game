@@ -24,12 +24,12 @@
 
 ## Authors
 
-👤 **Author1**
+👤 **Meet Doshi**
 
 - GitHub: [@githubhandle](https://github.com/meetdoshi90)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/meetdoshi90)
 
-👤 **Author2**
+👤 **Darshan Satra**
 
 - GitHub: [@githubhandle](https://github.com/darshansatra1)
 
