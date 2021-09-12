@@ -26,12 +26,12 @@
 
 👤 **Meet Doshi**
 
-- GitHub: [@githubhandle](https://github.com/meetdoshi90)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/meetdoshi90)
+- GitHub: [@meetdoshi90](https://github.com/meetdoshi90)
+- LinkedIn: [@meetdoshi90](https://linkedin.com/in/meetdoshi90)
 
 👤 **Darshan Satra**
 
-- GitHub: [@githubhandle](https://github.com/darshansatra1)
+- GitHub: [@darshansatra1](https://github.com/darshansatra1)
 
 ## 🤝 Contributing
 
