@@ -8,7 +8,7 @@
 
 ## In App Screenshots
 <div>
-<img src="https://user-images.githubusercontent.com/57676220/132984027-6f251719-5a23-436f-bace-3cb4c863aa62.png" width=100> <img src="https://user-images.githubusercontent.com/57676220/132983985-185a160f-9eec-449e-8ef5-11808a70f392.png" width=100>
+<img src="https://user-images.githubusercontent.com/57676220/132984027-6f251719-5a23-436f-bace-3cb4c863aa62.png" width=150> <img src="https://user-images.githubusercontent.com/57676220/132983985-185a160f-9eec-449e-8ef5-11808a70f392.png" width=150>
 </div>
 
 ## Built With
